@@ -1,6 +1,6 @@
 # Sara - AI Voice Assistant 💕
 
-A cute, caring AI bestie voice assistant powered by Google Gemini and LiveKit. Sara speaks Hinglish and remembers your conversations!
+A cute, caring AI  voice assistant powered by Google Gemini and LiveKit. Sara speaks Hinglish and remembers your conversations!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love">
