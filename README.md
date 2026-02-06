@@ -22,7 +22,7 @@ A cute, caring AI  voice assistant powered by Google Gemini and LiveKit. Sara sp
 | 🗣️ **Hinglish** | Speaks Hindi-English mix naturally |
 | 📱 **Mobile Support** | Access from phone via HTTPS |
 | 🌙 **Themes** | Auto dark/light mode |
-| 💕 **Personality** | A caring bestie vibe |
+| 💕 **Personality** | A caring best friend  vibe |
 
 ---
 
